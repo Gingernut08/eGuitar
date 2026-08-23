@@ -17,6 +17,6 @@ BOM:
 | 5-way switch     |      1 |        3.56 | [AliExpress](https://www.aliexpress.com/item/1005004102817118.html) |
 | Pickup magnets   |     24 |       25.79 | [AliExpress](https://www.aliexpress.com/item/1005005671763879.html) |
 | Pickup wire      |   500g |       37.04 | [AliExpress](https://www.aliexpress.com/item/1005010157248758.html) |
-| 25x57x1000mm oak |        |       14.53 | [britishhardwoods]([https://www.aliexpress.com/item/1005010157248758.html](https://www.britishhardwoods.co.uk/planed-all-round-european-oak-timber.html))
+| 25x57x1000mm oak |        |       14.53 | [britishhardwoods](https://www.britishhardwoods.co.uk/planed-all-round-european-oak-timber.html) |
 | 3D Printing      |    1kg |       30.00 | —                                                                   |
-| **Total**        |        | **$122.81** |                                                                     |
+| **Total**        |        | **$137.34** |                                                                     |

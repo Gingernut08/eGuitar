@@ -1,6 +1,6 @@
 BOM:
 
-| Item           | Amount |   Price (£) | Link                                                                |
+| Item           | Amount |   Price ($) | Link                                                                |
 | -------------- | -----: | ----------: | ------------------------------------------------------------------- |
 | Tuning pegs    |      6 |        6.63 | [AliExpress](https://www.aliexpress.com/item/1005009623082250.html) |
 | Strap button   |      2 |        1.65 | [AliExpress](https://www.aliexpress.com/item/1005012385459057.html) |
@@ -11,4 +11,4 @@ BOM:
 | Pickup magnets |     24 |       25.79 | [AliExpress](https://www.aliexpress.com/item/1005005671763879.html) |
 | Pickup wire    |   500g |       37.04 | [AliExpress](https://www.aliexpress.com/item/1005010157248758.html) |
 | PETG filament  |    1kg |       25.00 | —                                                                   |
-| **Total**      |        | **£118.81** |                                                                     |
+| **Total**      |        | **$118.81** |                                                                     |

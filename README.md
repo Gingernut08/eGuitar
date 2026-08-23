@@ -1,3 +1,24 @@
+**CAD**
+
+Full cad assembely
+
+<img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/fde040f8-f860-45f9-bce7-06ccf0c0969c" />
+
+Pickup
+
+<img width="587" height="488" alt="image" src="https://github.com/user-attachments/assets/a8ec7e2e-a5cb-4126-9c8d-56f399cebf19" />
+
+Neck
+
+<img width="779" height="657" alt="image" src="https://github.com/user-attachments/assets/26edb513-be4a-4101-a6c3-dc9f0cb5d026" />
+
+Fretboard
+
+<img width="1086" height="178" alt="image" src="https://github.com/user-attachments/assets/8c19e40f-2bdc-4edf-86e7-b8fdc0ce8419" />
+
+Back hollow
+
+<img width="929" height="723" alt="image" src="https://github.com/user-attachments/assets/75f7cdee-4343-47c5-8201-fd8fdfe14f7b" />
 
 
 
@@ -5,7 +26,7 @@
 
 
 
-BOM:
+**BOM:**
 
 | Item             | Amount |   Price ($) | Link                                                                |
 | ---------------- | -----: | ----------: | ------------------------------------------------------------------- |

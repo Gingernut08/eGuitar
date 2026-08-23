@@ -1,5 +1,7 @@
 Fully custom designed electric guitar, main body and fretboard made from fdm printed petg, neck made from planed European oak with a steel tensioning rod. This guitar has a scale of 648mm and has 24 frets, a 5 way selector switch allows for easy changing between the bridge, mid and neck pickups in combinations: n, mn, m, mb, b (n = neck, m = mid, b = bridge) with 2 tone and 1 volume control. Output is unbalanced 1/4" jack which is located below the mount for the strap on the back of the guitar. Access to the electrical components is granted through a removeable back plate held in place by 9 m2 bolts.
 
+The guitar is put together with locating pins on 3d prints, as well as dovetail connectors which lock them in place, the neck is connected using multiple bolts as well as locating pins, pickups are screwed into place, as well as other elecronics.
+
 **CAD**
 
 Full cad assembly

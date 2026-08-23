@@ -34,7 +34,9 @@ Wiring
 
 
 
-**BOM:**
+**[BOM:](https://github.com/Gingernut08/eGuitar/blob/main/bom.csv)**
+
+
 
 | Item             | Amount |   Price ($) | Link                                                                |
 | ---------------- | -----: | ----------: | ------------------------------------------------------------------- |
